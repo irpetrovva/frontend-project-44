@@ -18,7 +18,8 @@
   "homepage": "https://github.com/irpetrovva/frontend-project-44#readme",
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "eslint": "^8.30.0",
@@ -26,4 +27,5 @@
     "eslint-plugin-import": "^2.26.0",
     "readline-sync": "^1.4.10"
   }
+  
 }
