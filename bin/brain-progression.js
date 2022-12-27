@@ -28,7 +28,7 @@ function progression() {
                 
                
                 str += ' ' + i
-    
+                
                 
             } 
             
@@ -40,6 +40,7 @@ function progression() {
         console.log('Correct');
     } else{
         console.log(`Question: ${str}\n Your answer: ${answer}\n  '${answer}' is wrong answer ;(.\n Correct ancwer was ${perem}\n Let's try again, ${name}! `)
+        return;
     } if(j == 2){
         console.log(`Congratulations, ${name} !`)
  }
