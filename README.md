@@ -6,3 +6,4 @@
 <h1>Видео из 6 шага,делаю игру-калькулятор</h1>
 
 <p>https://asciinema.org/a/tTij4tMZJcpV8NllRrwIy1JmB</p>
+<p>https://asciinema.org/a/tMrKwun68aQKRwXe7SKPPujyx</p>
