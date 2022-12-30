@@ -3,7 +3,7 @@ import readlineSync from 'readline-sync'
 
 function checkSimple(number){
     let countSimpleDel = 0;
-    for(let i = 1; i < number; i++){
+    for(let i = 1; i <= number; i++){
 
         if(number % i === 0){
             countSimpleDel += 1;
