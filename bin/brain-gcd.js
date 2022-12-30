@@ -34,7 +34,7 @@ function nod() {
         } if(res == answer){
             console.log('Correct');
     }else{
-            console.log(`Question: ${a} ${b}\n Your answer: ${answer}\n  ${answer} is wrong answer ;(.\n Correct ancwer was ${res}\n Let's try again, ${name}! `)
+            console.log(`Question: ${a} ${b}\n Your answer: ${answer}\n  ${answer} is wrong answer ;(.\n Correct answer was ${res}\n Let's try again, ${name}! `)
             return
          }
         
